@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shadowstack Portfolio
 
 This project is a web developer portfolio built with Astro and deployed to a hosting service like vercel or netlify or cloudflare.
@@ -25,3 +26,6 @@ Start with src/layouts/Layout.astro to set site description, title, and URL abov
 
 This section is `src/components/CustomImageScroll.astro` and can be updated above the markup in the JSON object called cards. Images should be placed in `src/assets/` so Astro can optimize them! This section is responsive and assumes a 16:9 aspect ratio for the images with a row count of 6 (so 12 total images) before the CSS fades out and loops. The anaimation for this is in `tailwind.config.mjs` and can be adjusted there.
 
+=======
+# Manish_Ashok.github.io
+>>>>>>> 1faad6d65976edb635249d2e3ee4e63710ca7556
